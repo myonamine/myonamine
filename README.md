@@ -1,4 +1,4 @@
-👋 Hi, I'm Marcos Yonamine, an Oracle Developer and Integration Specialist with over 6 years of experience in Middleware Systems Administration, Integration Development, Generative AI Engineering, Oracle Cloud Application Integration, Process Automation, and Oracle Cloud Infrastructure Consulting. I help technology teams and organizations automate complex integrations using OIC, SOA, and AI tools like CrewAI, minimizing bottlenecks and achieving up to 45% efficiency gains and 99.9% uptime.
+### 👋 Hi, I'm Marcos Yonamine, an Oracle Developer and Integration Specialist with over 6 years of experience in Middleware Systems Administration, Integration Development, Generative AI Engineering, Oracle Cloud Application Integration, Process Automation, and Oracle Cloud Infrastructure Consulting. I help technology teams and organizations automate complex integrations using OIC, SOA, and AI tools like CrewAI, minimizing bottlenecks and achieving up to 45% efficiency gains and 99.9% uptime.
 
 ## About Me
 
