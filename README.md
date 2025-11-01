@@ -24,6 +24,9 @@ If you're tackling integration issues or need reliable cloud services, let's con
 ![Image](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker-blue)
 
 
+## Badges
+![OIC Expert](https://img.shields.io/badge/Oracle%20Integration-Expert-red?logo=oracle&logoColor=white)
+![AI Accelerated](https://img.shields.io/badge/AI%20Tools-CrewAI%20%7C%20Ollama-green)
 
 
 ## Certifications
