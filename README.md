@@ -22,3 +22,47 @@ If you're tackling integration issues or need reliable cloud services, let's con
 ![Image](https://img.shields.io/badge/AI%20Tools-CrewAI%20%7C%20OCI-green)
 
 ![Image](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker-blue)
+
+
+
+
+## Certifications
+
+- MultiCloud DevOps & A.I, The Cloud Bootcamp (2025)
+- Oracle Cloud Infrastructure OCI Kubernetes Engine Specialist (2025)
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (1Z0-1122-25) (2025)
+- Oracle AI Vector Search Professional (1Z0-184-25) (2025)
+- Oracle Cloud Infrastructure 2025 Application Integration Professional (1Z0-1042-25) (2025)
+- Oracle Cloud Infrastructure 2025 Architect Associate (1Z0-1072-25) (2025)
+- Oracle Cloud Infrastructure 2025 DevOps Professional (1Z0-1109-25) (2025)
+- Oracle Cloud Infrastructure 2025 MultiCloud Architect Professional (1Z0-1151-25) (2025)
+- Oracle Generative Artificial Intelligence Certified Professional (2024)
+- CrewAI Fundamental (2024)
+- Oracle Generative Infrastructure 2024 Generative AI Certified Professional
+- BootCamp MultiCloud 2025
+- CrewAI Initial Course
+- Certified AI Professional Foundations Associate
+
+![Image](https://img.shields.io/badge/Certified-Oracle%20AI%20%26%20Cloud-blue?logo=oracle)
+
+## Projects & Portfolio
+
+- **OIC Integrations**: Developed end-to-end integrations with Fusion Apps and OTM using OIC. (Link to repo if available)
+- **AI-Enhanced Automations**: Integrated CrewAI with OCI for 45% efficiency gains in process automation.
+- **Kubernetes Clusters**: Designed high-availability setups for WebLogic/SOA achieving 99.9% uptime.
+- Explore more in my repositories: [OIC Examples](https://github.com/myonamine/oic-examples) | [AI Projects](https://github.com/myonamine/ai-projects)
+
+_(Add links to actual repos; pin key projects on your profile for visibility.)_
+
+## Contact
+
+- 📧 Email: [marcos.yonaware@proton.me](mailto:marcos.yonaware@proton.me)
+- 🔗 LinkedIn: [linkedin.com/in/marcos-yonamine](https://linkedin.com/in/marcos-yonamine)
+- 📍 Location: Guaíra, São Paulo, Brazil
+- ☎️ Phone: +55 11 98141-9077
+
+Let's connect! I'm open to opportunities in Oracle Integration, AI Engineering, and Cloud Architecture.
+
+![Image](https://github-readme-stats.vercel.app/api?username=myonamine&show_icons=true&theme=radical)
+
+![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=myonamine&layout=compact&theme=radical)
